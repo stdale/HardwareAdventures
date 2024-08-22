@@ -1,1 +1,12 @@
-"initial investigation notes" 
+3 potential jumper/ports of interest
+J903 - 4 pin edge, left middle
+	appears to all be ground?
+	x
+	x 
+	x
+	g
+j341 - 9 pin, bottom left 
+    x x x x x 
+    x g g   g 	
+j301 - 4 pin, right top 
+    x x x x 
